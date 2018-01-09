@@ -8,6 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
+    	int a=2;
+    	if(a==1)
         System.out.println( "Hello World!" );
+    	else
+    		System.out.println("erro");
     }
 }
