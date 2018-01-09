@@ -11,7 +11,9 @@ public class App
     	int a=2;
     	if(a==1)
         System.out.println( "Hello World!" );
-    	else
-    		System.out.println("erro");
+    	else if(a==2)
+    		System.out.println("hello hello world");
+    	else 
+    		System.out.println("error");
     }
 }
